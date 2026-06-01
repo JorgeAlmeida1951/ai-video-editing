@@ -9,7 +9,7 @@ ___    ____   _    ___     __              ______    ___ __  _
 
 # AI Video Editing
 
-> best ai video editor 2026, descript, capcut ai, ai auto edit.
+> best ai video editor 2026, descript, capcut ai, ai auto edit. for Windows
 
 **ai-video-editing** | **video-editor** | **descript** | **ai-subtitles** | **video-tools**
 
@@ -19,9 +19,9 @@ ___    ____   _    ___     __              ______    ___ __  _
 
 - best ai video editor 2026, descript, capcut ai, ai auto edit.
 - Full build: ai video editing, descript, capcut ai, ai auto edit, ai subtitle generator.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS
+**Platform:** Windows 10/11 x64
 
 ---
 
